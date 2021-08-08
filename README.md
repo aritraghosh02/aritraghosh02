@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ARITRA Ghosh
+- 👋 Hi, I’m ARITRA Ghosh
 - 👀 I’m interested in doing something new!
 - 🌱 I’m currently learning React and React Native languages
 - 💞️ I’m looking to collaborate on ...
